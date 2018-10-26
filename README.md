@@ -7,3 +7,4 @@ https://github.com/karswelten/Assignments/blob/master/Graded_assignment_2-3.ipyn
 https://github.com/karswelten/Assignments/blob/master/exam_june_7_2018-2.ipynb (Exam June 7, 2018. Kars Welten)
 https://github.com/karswelten/Assignments/blob/master/Exam_student-2.ipynb (Exam June 7, 2018. R notebook, Kars Welten)
 https://github.com/karswelten/Assignments/blob/master/exam_Oct_26_2018-2.ipynb (Exam October 26, 2018, Python, Kars Welten)
+https://github.com/karswelten/Assignments/blob/master/Resit_2_student-2.ipynb (Exam October 26, 2018, R notebook, Kars Welten)
